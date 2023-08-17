@@ -49,7 +49,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rdsilvadev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rdsilvadev&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
