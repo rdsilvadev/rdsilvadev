@@ -49,7 +49,7 @@
 
 ![Ron's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rdsilvadev&show_icons=true&theme=radical)
 
-![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical)
 
 </div>
 
