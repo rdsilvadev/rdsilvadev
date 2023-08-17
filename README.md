@@ -47,9 +47,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rdsilvadev&theme=radical)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rdsilvadev&show_icons=true&theme=radical)
+![Ron's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rdsilvadev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rdsilvadev&hide_progress=false&theme=radical)
+![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
 
 </div>
 
